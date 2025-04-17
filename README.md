@@ -2,11 +2,17 @@
 
 This is a simple Currency Converter app built using Android's Jetpack Compose. The application allows users to convert various currencies with real-time conversion factors.
 
+> 🌐 **Download the apk**: [CurrencyConverter.apk](https://drive.google.com/file/d/1VbQ576Uk7yyZc0BibvB_xG60JDvZ5SBH/view?usp=sharing)
+
+---
+
 ## Features
 
 - **User-Friendly Interface**: Easy-to-use interface with dropdown menus for selecting currencies.
 - **Real-Time Conversion**: Converts between multiple currencies using predefined conversion factors.
 - **Responsive Design**: The app is designed to work seamlessly on different screen sizes and orientations.
+
+---
 
 ## Screenshots
 ![Screenshot_20240824_004846](https://github.com/user-attachments/assets/d93fb4a5-1eab-4a84-ab54-8d50a5605473)
@@ -19,7 +25,7 @@ This is a simple Currency Converter app built using Android's Jetpack Compose. T
 
 ![Uploading Screenshot_20240824_004846.jpg…](![Screenshot_20240824_004843](https://github.com/user-attachments/assets/7dbcdb2d-56ba-4631-9333-e3e9684dddda)
 
-
+---
 
 ## Project Structure
 
@@ -31,3 +37,4 @@ This is a simple Currency Converter app built using Android's Jetpack Compose. T
 - **build.gradle (Project)**: Top-level build configuration file.
 - **build.gradle (Module: app)**: Module-specific build configuration file, including dependencies and Android settings.
 
+---
