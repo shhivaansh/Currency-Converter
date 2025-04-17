@@ -31,8 +31,3 @@ This is a simple Currency Converter app built using Android's Jetpack Compose. T
 - **build.gradle (Project)**: Top-level build configuration file.
 - **build.gradle (Module: app)**: Module-specific build configuration file, including dependencies and Android settings.
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shhivaansh/
